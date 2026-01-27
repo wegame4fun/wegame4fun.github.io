@@ -1,3 +1,4 @@
+google.com, pub-9451428632397484, DIRECT, f08c47fec0942fa0
 gadsme.com, cmhndxqyy02mnur0i0xvsbqkk, DIRECT, 6e0ed2d8104a4234
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg000002MH4HIAW, RESELLER, bbea06d9c4d2853c
